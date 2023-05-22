@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+    
+}
+
+body{
+    width: 100%;
+    height: 100%;
+background: rgb(238,213,174);
+background: radial-gradient(circle, rgba(238,213,174,1) 0%, rgba(148,193,233,1) 100%);
+}
+
+body .container{
+    background-color: whitesmoke;
+}
